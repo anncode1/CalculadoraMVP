@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiCalculadora</string>
+    <string name="button_text">Suma</string>
+    <string name="result">Resultado</string>
+</resources>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/.android/build-cache/bbc68141fe12024d76cef2b0fd2ba0c676544d1d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Android/cursoDefinitivo/Ejemplos/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5d148be1e49b7b0c69849a31fb2f51aad6b2de79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta3/constraint-layout-solver-1.0.0-beta3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="22c1e9d26251df254de7cc9dee01f5f134b10eba">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Android/cursoDefinitivo/Ejemplos/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta3_6143da573a1ef51a64a7be87263aa337f6929623/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/.android/build-cache/1b68740d9c30be848a8e4ffd2c52c71ac3b1c853/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Android/cursoDefinitivo/Ejemplos/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d40133ec04d86ea72a3aaa94f2ba361c637d259e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/.android/build-cache/a3d3a36eebad21e72cbac8cc8ff0913cfa34fc4a/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Android/cursoDefinitivo/Ejemplos/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_52a403554089f5055786c849f25f94e67ead85f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/.android/build-cache/52a04cc30d2a5bc4f48fd1e7f9224d71fb0e5174/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b81d40d208a3308c8e81b2cccd3054238a13d140">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Android/cursoDefinitivo/Ejemplos/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a0125a367ab14c1bfe59c0d05efad891ad37c99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/.android/build-cache/73dc0ca69f9ab01dec52e3a992092c0f3a3c084d/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Android/cursoDefinitivo/Ejemplos/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_644a9a4d95b4fc7eee379f6d98b33280e85c8ed9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/.android/build-cache/1d3d068fc3b4cf9a332453f00a0ef6e84594a9f8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Android/cursoDefinitivo/Ejemplos/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb4129e7499da5e3e84ef602191e4444f0cd6a56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/Documents/Platzi/Android/cursoDefinitivo/Ejemplos/MyApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50c309a542f6ce9a1350942c64a9f757d0457fc1">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Android/cursoDefinitivo/Ejemplos/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_26d2c8f3db9d96faa2e96b70533bd98e0f1662f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/.android/build-cache/578e3b221da9c9e859aa9d163b037709ed2d965a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Android/cursoDefinitivo/Ejemplos/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57f78c5f40c2969286fc80192124608ebb3d868c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/Documents/Platzi/Android/cursoDefinitivo/Ejemplos/MyApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Android/cursoDefinitivo/Ejemplos/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7e65c8ecf445a434132631c8cab7de88fe616801/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/.android/build-cache/691e4f2d6b41f5ba162e9e9540863087dd7c9ef0/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Android/cursoDefinitivo/Ejemplos/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_5a79e716c7f5e1514acbd99953e3ff2506f89dbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/.android/build-cache/691e4f2d6b41f5ba162e9e9540863087dd7c9ef0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Android/cursoDefinitivo/Ejemplos/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb4e71cddaa6827dd11f4b3cc9d1ae83c9ce2b27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Android/cursoDefinitivo/Ejemplos/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_9cdb6051e8f1fe2fce4eda98574bff6792f94b61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/.android/build-cache/51e273b3cb92aa0f2d7ff0f008d87420cee06171/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Android/cursoDefinitivo/Ejemplos/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8337b8208c74b2fbf9591f03a7a1a8ac0f24ab6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/.android/build-cache/44853d8be20bcf0e501ce3bb5cfc16d867cc5a38/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Android/cursoDefinitivo/Ejemplos/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dd9d6fe66552a391d26ca1e785aeb49d9a392c9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/.android/build-cache/73dc0ca69f9ab01dec52e3a992092c0f3a3c084d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Android/cursoDefinitivo/Ejemplos/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dd2488a12b5e7438a4ed7a558ba5b96358d4db0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/.android/build-cache/1d3d068fc3b4cf9a332453f00a0ef6e84594a9f8/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Android/cursoDefinitivo/Ejemplos/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_94d99395127f635d59c944b1aa0935682bdca11b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/.android/build-cache/a3d3a36eebad21e72cbac8cc8ff0913cfa34fc4a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Android/cursoDefinitivo/Ejemplos/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_010814591aec44a33e49816cfcc57b89dc71acc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anahisalgado/.android/build-cache/51e273b3cb92aa0f2d7ff0f008d87420cee06171/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/anahisalgado/Documents/Platzi/Android/cursoDefinitivo/Ejemplos/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_63d93a3a04604f658f931ab8c74d54d2814ea672/classes.dex" />
+    </item>
+
+</items>
